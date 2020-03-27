@@ -3,7 +3,7 @@ We just need a Kanban Board<br>
 https://docs.google.com/document/d/1YACxvTQ1UEQeYAYHw7f2X23jnAnIfGMyvS-GJhUGvEw/edit
 
 ## Rollenverteilung
-- Product Owner: Anna-Lena
+- Product Owner: Anna-Lena Richert
 - SCRUM-Master: Benno Grimm
 - Entwickler 1: Anton Ochel
 - Entwickler 2: Marcel Mertens

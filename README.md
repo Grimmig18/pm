@@ -15,4 +15,4 @@ https://docs.google.com/document/d/1YACxvTQ1UEQeYAYHw7f2X23jnAnIfGMyvS-GJhUGvEw/
 - Am Ende eines jeden Sprints eine Retro
 
 ## Idee
-Alltägliche Aktivitäten in bezug auf ihren CO2 Ausstoß miteinander vergleichbar machen, um den eigenen CO2 Fußabdruck zu verringern und bewusster leben zu können.
+Alltägliche Aktivitäten in Bezug auf ihren CO2 Ausstoß miteinander vergleichbar machen, um den eigenen CO2 Fußabdruck zu verringern und bewusster leben zu können.
